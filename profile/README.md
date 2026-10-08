@@ -1,9 +1,3 @@
-<!--
-这个仓库名必须叫 .github（前面有个点），
-profile/README.md 会显示在组织主页 github.com/Layer-Mirage-Security 的顶部。
-带 【】 的地方换成你们自己的内容。
--->
-
 <h1 align="center">Layer Mirage Security</h1>
 
 <p align="center">
