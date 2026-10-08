@@ -14,9 +14,11 @@ profile/README.md 会显示在组织主页 github.com/Layer-Mirage-Security 的�
 
 ## 关于我们
 
-一个专注安全方向的小型团队。做漏洞挖掘、逆向分析，以及 AI 时代的新攻击面。
+Layer Mirage Security 是一个专注安全研究的小型团队。
 
-【这里写两三句你们真正在做的事，比如：主要接 XX 方向的授权测试 / 自研 XX 工具 / 关注 AI 应用的权限与提示注入问题】
+我们做两件事：一是传统安全的硬骨头 —— 漏洞挖掘、二进制逆向、协议分析；二是 AI 时代刚冒头的新攻击面 —— 提示注入、越狱、Agent 权限体系、模型供应链。
+
+老问题我们熟，新问题我们在学。
 
 ---
 
@@ -37,15 +39,8 @@ profile/README.md 会显示在组织主页 github.com/Layer-Mirage-Security 的�
 |---|---|
 | [earth-migration-project](https://github.com/Layer-Mirage-Security/earth-migration-project) | Three.js 沉浸式 3D 单页网站 |
 
-【以后有新项目就往这个表里加一行】
+<sub>以后有新项目往这个表里加一行</sub>
 
 ---
 
-## 联系
-
-- 📧 【团队邮箱】
-- 💬 【联系方式】
-
----
-
-<sub>授权测试 / 安全研究合作，欢迎联系。未授权目标一律不接。</sub>
+<sub>授权测试 / 安全研究合作，欢迎联系团队成员。未授权目标一律不接。</sub>
